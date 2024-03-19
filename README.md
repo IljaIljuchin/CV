@@ -1,2 +1,2 @@
 # CV
-Updating your CV is a breeze with this user-friendly tool! No need for coding expertise—just follow the simple steps to keep your professional profile fresh. Plus, you'll learn how to use GitHub, Docker, and GitHub Actions along the way, making it even easier to maintain your CV and stay ahead in your career.
+Welcome to the CV Updater! Managing your CV can be complex, but this tool breaks it down into easy steps. No coding background needed! Follow along to keep your CV current. Plus, explore GitHub, Docker, and GitHub Actions for a deeper dive into tech skills, even for non-developers.
